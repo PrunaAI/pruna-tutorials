@@ -52,3 +52,21 @@ Version options:
 - 2.1-base
 - 2.1
 - xl-1.0
+
+#### Inpaint Configuration Parameters
+Specify your UNET dimension (default=9):
+```python
+smasher_config['unet_dim'] = 9
+```
+
+#### Controlnet Configuration Paramters
+Set controlnet to True:
+```python
+smasher_config['controlnet'] = True
+```
+
+#### Consistency Models
+Set scheduler to "LCMScheduler":
+```python
+smasher_config['scheduler'] = "LCMScheduler"
+```

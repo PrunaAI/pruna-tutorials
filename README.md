@@ -5,13 +5,7 @@ Notebooks using the Pruna AI libraries
 
 2- Please contact the pruna team for an api_key: ...
 
-## SmasherConfig Documentation
-
-The `SmasherConfig` class is used to configure settings for the image processing pipeline. Here's how to set up and use the `SmasherConfig` object.
-
-### Configuration
-
-First, initialize a `SmasherConfig` object:
-
-```python
-smasher_config = SmasherConfig()
+## Stable Diffusion Examples
+Please check the [Stable Diffusion folder](pruna/notebooks/diffusion/) for an extensive list of examples on many stable diffusion tasks and architectures
+## LLM Examples
+Please check the [transformers folder](pruna/notebooks/diffusion/) for an extensive list of examples on many generative LLMs across different available compression methods

@@ -22,11 +22,11 @@
 ## Repository structure
 ### Text
 
-We show examples of how to use pruna on different NLP tasks in the [text folder](https://github.com/PrunaAI/Tutorials/tree/main/pruna/notebooks/transformers). It includes a list of examples on many generative Large Language Models (LLMs) across different available compression methods and tasks.
+We show examples of how to use pruna on different NLP tasks in the [text folder](https://github.com/PrunaAI/Tutorials/tree/main/pruna/notebooks/text-generation). It includes a list of examples on many generative Large Language Models (LLMs) across different available compression methods and tasks.
 
 ### Image
 
-We show examples of how to use pruna on different CV tasks in the [image folder](https://github.com/PrunaAI/Tutorials/tree/main/pruna/notebooks/diffusion). It includes a list of examples on many generative Stable Diffusion (SD) models across different available compression methods and tasks.
+We show examples of how to use pruna on different CV tasks in the [image folder](https://github.com/PrunaAI/Tutorials/tree/main/pruna/notebooks/image-generation). It includes a list of examples on many generative Stable Diffusion (SD) models across different available compression methods and tasks.
 
 ## License
 

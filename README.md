@@ -20,11 +20,11 @@
 3. Choose the notebook you want to run in this repo and run it!
 
 ## Repository structure
-### Text
+### Text Generation
 
 We show examples of how to use pruna on different NLP tasks in the [text folder](https://github.com/PrunaAI/Tutorials/tree/main/pruna/notebooks/transformers). It includes a list of examples on many generative Large Language Models (LLMs) across different available compression methods and tasks.
 
-### Image
+### Image Generation
 
 We show examples of how to use pruna on different CV tasks in the [image folder](https://github.com/PrunaAI/Tutorials/tree/main/pruna/notebooks/diffusion). It includes a list of examples on many generative Stable Diffusion (SD) models across different available compression methods and tasks.
 

@@ -15,7 +15,8 @@
 - `pruna_engine`: Package to run your AI model more efficiently without changing your pipeline.
 
 ## Setup
-1. Install the [Pruna package](https://pypi.org/project/pruna/) from PyPI. 
+1. Install the [Pruna package](https://pypi.org/project/pruna/) from PyPI.
+    - ```pip install pruna --extra-index-url https://pypi.nvidia.com --extra-index-url https://pypi.ngc.nvidia.com```
 2. Fill the [early access form](https://z0halsaff74.typeform.com/pruna-access?typeform-source=www.pruna.ai) to get a trial pruna api_key.
 3. Choose the notebook you want to run in this repo and run it!
 

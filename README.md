@@ -12,7 +12,7 @@
 [Pruna AI](https://www.pruna.ai/) makes, in one line of code, any AI model faster, cheaper, smaller, greener on any hardware. It covers CV, NLP, audio, graphs for predictive and generative AI.
 
 - `pruna`: Package to smash your AI model to make it more efficient without losing quality. For this, you only need to call `pruna.smash()`.
-- `pruna_engine`: Package to run your AI model more efficiently without changing your pipeline.
+- `pruna_engine`: Package to run your AI model more efficiently without changing your pipeline (included within pruna).
 
 ## Setup
 1. Install the [Pruna package](https://pypi.org/project/pruna/) from PyPI.

@@ -29,6 +29,14 @@ We show examples of how to use pruna on different NLP tasks in the [text folder]
 
 We show examples of how to use pruna on different CV tasks in the [image folder](https://github.com/PrunaAI/Tutorials/tree/main/pruna/notebooks/image-generation). It includes a list of examples on many generative Stable Diffusion (SD) models across different available compression methods and tasks.
 
+## Saving and Loading
+In order to save and load your model, you can follow these steps:
+### Save
+```smashed_model.save_model("path_to_your_model")```
+### Load
+from pruna_engine.PrunaModel import PrunaModel
+loaded_model = PrunaModel.load_model('path_to_folder/model_name', api_key='your_key')
+
 ## License
 
 GNU General Public License v3.0

@@ -1,5 +1,5 @@
 # LLM Optimization
-Pruna currently supports txt2img, img2img, inpainting, controlnet, and LoRA optimizations for all stable diffusion models.
+ Pruna supports an extensive array of Casual Language Models (CasualLM) from the [Hugging Face Transformers library](https://huggingface.co/transformers/). Our optimizations are designed to work fluidly with these powerful models, facilitating the generation of natural language text with unprecedented ease and flexibility. We currently support several compression techniques including quantization and c translation.
 
 ## SmasherConfig Documentation
 

@@ -1,5 +1,5 @@
 # Stable Diffusion Optimization
-Pruna currently supports txt2img, img2img, inpainting, controlnet, and LoRA optimizations for all stable diffusion models.
+Pruna is able to optimize the state of the art in image generation including for [Stable Diffusion (SD)](https://arxiv.org/abs/2112.10752) and preliminary support for [Consistency models](https://arxiv.org/abs/2303.01469). Our tool enhances txt2img, img2img, inpainting, controlnet, and LoRA optimizations, integrating seamlessly with all stable diffusion models. Dive deeper into the capabilities of SD models, which are pivotal in generating high-fidelity images from textual descriptions. Meanwhile, Consistency models, essential for maintaining coherent attributes in sequential model outputs, are also supported. Explore the full spectrum of Pruna's capabilities to elevate your projects.
 
 ## SmasherConfig Documentation
 
